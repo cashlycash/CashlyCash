@@ -12,4 +12,4 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/908554250945183744)](https://discord.com/users/908554250945183744)
 
 ### Spotify
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31ekzrerhr7ngoggu3qyyg7bacyi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31ekzrerhr7ngoggu3qyyg7bacyi&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ekzrerhr7ngoggu3qyyg7bacyi&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31ekzrerhr7ngoggu3qyyg7bacyi&redirect=true)
