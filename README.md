@@ -7,9 +7,9 @@
 
 **Age -** 13 y/o
 
-### Socials -
-Discord -
+## Socials -
+### Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/908554250945183744)](https://discord.com/users/908554250945183744)
 
-Spotify -
+### Spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ekzrerhr7ngoggu3qyyg7bacyi&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=31ekzrerhr7ngoggu3qyyg7bacyi&redirect=true)
