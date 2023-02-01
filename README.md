@@ -9,7 +9,7 @@
 
 ## Socials -
 ### Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/908554250945183744)](https://discord.com/users/908554250945183744)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1056591132739506248)](https://discord.com/users/908554250945183744)
 
 ### Spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ekzrerhr7ngoggu3qyyg7bacyi&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31ekzrerhr7ngoggu3qyyg7bacyi&redirect=true)
