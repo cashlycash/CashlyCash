@@ -1,8 +1,7 @@
-<p align="center">
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=3000&center=true&vCenter=true&lines=CashlyCash+Here;Coding+right+now+(Probably);Checkout+my+socials)
-# CashlyCash
+<span align="center">
+[Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=3000&center=true&vCenter=true&lines=CashlyCash+Here;Coding+right+now+(Probably);Checkout+my+socials)
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FArnavGupta30&label=Today's%20%2F%20Total%20Visitors%20&labelColor=%23d9e3f0&countColor=%23697689&labelStyle=none)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FArnavGupta30)
-</p>
+</span>
 
 **Name -** Arnav Gupta
 **Age -** 14 y/o
